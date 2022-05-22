@@ -40,7 +40,9 @@ MONETARY POLICY
 
 The $HOP token is the governance and rewards token of the HOUSE OF POWER universe. $EGLD is added to the ecosystem as another currency to acquire in-game assets and pay for in-game activities and other necessary game functions. The value of $HOP will come from the sustainability and expansion of the game economy.
 
-                                $HOP has a fixed supply of 750,000,000 tokens, which will be allocated as follows:
+$HOP has a fixed supply of 750,000,000 tokens, which will be allocated as follows:
+
+                              
                                 PLAY-TO-EARN REWARDS          30%          225,000,000          48 MONTHS VESTING
                                                                                                 ISSUANCE BEGINS 1 MONTH
                                                                                                 AFTER GAME LAUNCH
