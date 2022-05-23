@@ -144,7 +144,7 @@ House of Power Factory
 Players can upgrade and customize their avatars through the HOP Factory by minting a Mobster Bod - a full-body extension of the avatar-based Mobster NFTs. Mob Bods visualize the humor and quirkiness of the Mobsters to the fullest. The Factory will expand into various other functions for players to build onto their characters and showcase them to others in the game. Premium upgrades and customizations carry a fee that gets sent to the Vault.
 
 NFT Leasing 
-NFT Leasing is an innovation on top of the ability to rent out NFTs and earn tokens. Goons NFT holders will have the option to lease out their assets to new players and share in the token rewards those players accumulate while playing the game for the agreed-upon lease contract duration. The lessee enters into a leasing contract with the lessor and receives full access to the game and the right to receive the maximum gaming rewards as any other Goon holder would. In turn, lessors earn the fee, with a small portion of that fee being sent to the Vault.
+NFT Leasing is an innovation on top of the ability to rent out NFTs and earn tokens. Mobsters NFT holders will have the option to lease out their assets to new players and share in the token rewards those players accumulate while playing the game for the agreed-upon lease contract duration. The lessee enters into a leasing contract with the lessor and receives full access to the game and the right to receive the maximum gaming rewards as any other Mob holder would. In turn, lessors earn the fee, with a small portion of that fee being sent to the Vault.
 
 Outflow Channels
 
