@@ -20,12 +20,15 @@ INTEGRATING FUNCTIONAL NFTS INTO GAMEPLAY
 Digital assets such as Mob Characters, Mob Cards, and customization items are an essential and integral part of the game itself. Such assets are a prerequisite to playing the game and being part of the community, players can evolve and grow with the game using the NFT enhancements that increase their engagement and advance their playing level. 
 
 1. The mobsters Characters
+
 The HOP universe is controlled by characters called Mobsters. Depending on how many Mobsters you own differentiates the player during battles, guarantees  superior play-to-earn rewards, and gives access to Mobsters Perks 
 
 2. The mobsters Perks
+
 The Mob Characters, also known as Mob Avatars, are only visually presented as a half body piece. Players can create their ideal style in the game by customizing the body of their avatar through a second NFT called Mob Perk. Each body enhancement also carries a unique in-game animation, such as a finishing move or dance. The winning player’s character triggers the animation at the end of the battle.
 
 3. The Mobsters Cards
+
 All players get access to a free base card pool that is not considered a digital asset. It allows players to play the game, understand it, and decide if they wish to enhance their card deck to be more competitive. NFT-based Mobsters Cards are more desirable and powerful, enhance battle strategies, and add the important functional aspect of ownership into the gameplay.
 
 ENABLING USER GROWTH
