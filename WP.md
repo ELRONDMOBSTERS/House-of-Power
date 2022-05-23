@@ -63,7 +63,7 @@ $HOP has a fixed supply of 750,000,000 tokens, which will be allocated as follow
                                                                                                 ISSUANCE BEGINS 1 MONTH 
                                                                                                 AFTER GAME LAUNCH
                                                                                                 
-                                PUBLIC SALE                  12.5%         93,750,000           EXPONENTIAL DECAY UNLOCK      
+                                PUBLIC SALE                  13.5%         101,250,000           EXPONENTIAL DECAY UNLOCK      
                                 
                                 
                                 
