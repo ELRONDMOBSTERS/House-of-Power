@@ -52,14 +52,14 @@ $HOP has a fixed supply of 750,000,000 tokens, which will be allocated as follow
                               
                                 STAKING REWARDS              18.5%        138,750,000          EXPONENTIAL DECAY UNLOCK   
                               
-                                ECOSYSTEM                    13%          123,750,000          36 MONTH VESTING
+                                ECOSYSTEM                    13%          97,500,000          36 MONTH VESTING
                                 
                                 TEAM MONTH CLIFF             15%          112,500,000          24 MONTH VESTING
                                                                                                 6 MONTH CLIFF  
                                                                                                 
-                                LIQUIDITY                     5%           32,500,000              100% TGE                  
+                                LIQUIDITY                     5%           37,500,000              100% TGE                  
                                 
-                                PRIVATE SALE                  5%           32,500,000           48 MONTHS VESTING 
+                                PRIVATE SALE                  5%           37,500,000           48 MONTHS VESTING 
                                                                                                 ISSUANCE BEGINS 1 MONTH 
                                                                                                 AFTER GAME LAUNCH
                                                                                                 
