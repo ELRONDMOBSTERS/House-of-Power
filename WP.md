@@ -76,6 +76,7 @@ The remaining 26,250,000 tokens are put into the staking pool that rewards NFT s
 In both cases, the distribution of tokens will be controlled through a reward-based exponential decay strategy that rewards early contributors with a higher emission rate. The distribution of tokens is done through an automated system without any influence from the HOP team.
 
 ECOSYSTEM
+
 A large part of the House of  Power metaverse, is the community members, NFT owners, game players, fans, investors, and creators. 123,750,000 tokens are allocated to this pool to initiate, facilitate, and support community engagement to deepen and strengthen the relationship and trust between HOP and the community. The tokens will be used for community tournament rewards, design contests, referrals, growth projects, and increasing the governance and engagement of the community.
 
 TEAM
@@ -96,10 +97,14 @@ GAME ECONOMY
 House of Power is a free-to-play game that provides an optional premium economic layer where players collect digital assets, receive higher gaming rewards, and access features that enhance the gaming experience. The game economy is sustained through natural cash flows that include fees from gaming-related activities as inflows and carefully balanced rewards from gaming and staking activities as outflows. 
 The game economy can be broken into five modules that work together to create a circular and sustainable economy:
 
-1.STAKE HOLDERS
+1.STAKEHOLDERS
+
 2.EXCHANGE
+
 3.BASE POOLS
+
 4.INFLOW CHANNELS
+
 5.OUTFLOW CHANNELS
 
 Stakeholders
