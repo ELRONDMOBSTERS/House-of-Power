@@ -139,7 +139,7 @@ The HOP Store will offer the community new Mobsters NFT factions for sale in add
 
 
 Secondary Market 
-Mobsters Card NFTs and Mobsters Character NFTs sold on secondary markets have royalty options of 10% built into the sales function on Deadrare and are planned with future layer-2 integrations across other marketplaces.
+Mobsters Card NFTs and Mobsters Character NFTs sold on secondary markets have royalty options of 10% built into the sales function on Principal Elrond Marketplaces and are planned with future layer-2 integrations across other marketplaces.
 
 Vault Inflows 
 
